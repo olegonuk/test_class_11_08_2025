@@ -1,3 +1,2 @@
-def change_word_upper(word):
-  return word.upper()
-
+def get_user_name():
+  return input('Enter your name: ')
